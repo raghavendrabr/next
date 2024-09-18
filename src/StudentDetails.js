@@ -6,7 +6,7 @@ const StudentDetails = () => {
     <div>
       <h1>Student Details</h1>
       {/* Add content for this page */}
-      <p>This is where the student details will be displayed.</p>
+      <p>This is  student details will be displayed.</p>
     </div>
   );
 };
